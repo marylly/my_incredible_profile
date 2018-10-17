@@ -3,6 +3,7 @@ ____________________________________________________
 
 * Objetivo
 * Hipóteses
+* História do projeto
 
 # Objetivo
 
