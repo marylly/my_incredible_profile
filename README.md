@@ -4,6 +4,7 @@ ____________________________________________________
 * Objetivo
 * Hipóteses
 * História do projeto
+* Conclusões
 
 # Objetivo
 
